@@ -954,6 +954,9 @@ margin-bottom: 27px; */
   padding: 10px 28px;
   margin-left: 12px;
   justify-content: center;
+
+  border-style: none;
+  
 }
 
 .icon-footer {
@@ -961,6 +964,6 @@ margin-bottom: 27px; */
 }
 .subscribe {
   display: flex;
-  margin-top: 54px;
+  margin-top: 20px;
   margin-bottom: auto;
 }
